@@ -1,0 +1,17 @@
+.header{
+	background-color:#111d5e;
+	display: flex;
+	flex-wrap: wrap;
+	align-items: center;
+	justify-content: space-between;
+	}
+
+
+
+#login-box {display: flex;
+justify-content: space-around;
+width: 150px;
+}
+
+#login-box a{color:#fe346e;}
+
